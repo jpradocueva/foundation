@@ -16,3 +16,4 @@ To initiate the signature process please open a PR against the [EasyCLA repo](ht
 
 If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
 
+
