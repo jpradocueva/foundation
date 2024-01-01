@@ -1,0 +1,17 @@
+---
+title: "FOCUS Process, Procedures and Guidelines"
+status: "Draft"
+version: "1.0"
+organizationName: "FinOps Open Cost and Usage Spec (FOCUS)"
+date: "2024-01-01"
+copyrightDate: "2024"
+logo: "images/logo.png"
+documentName: "FOCUS-ORG-Procedures-V1_0-YYYYMMDD-D"
+watermark: "DRAFT"
+files:
+- license.md
+- scope.md
+- operating_procedures.md
+- Appendices.md
+---
+# Detailed instructions see at https://markdown.standardshub.io/md2html-setup.
