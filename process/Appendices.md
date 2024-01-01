@@ -27,7 +27,7 @@
 - [ ] Organize group meetings and phone conferences in a timely manner.
 - [ ] Monitor your GitHub issues for requests to respond to questions from the public and provide responses. The chair will manage the creation, regular maintenance and obsolescence of their group's charter.
 
-## Meeting Responsibilities
+## Appendix Meeting Responsibilities
 
 - [ ] Moderate the meeting to ensure the work within the group progresses in a timely manner.
 - [ ] When issues are raised within the meeting that the chair considers editorial and that may result in lengthy discussions, the chair should direct the editor to handle these issues outside the face to face session or conference call session subject to agreement on the resulting changes.
@@ -82,8 +82,103 @@ If there is any ambiguity between these definitions here and in the above docume
 | Working Group Charter |  A document that contains the scope, objectives and goals of a particular group. |
 | Work Package | It is a group of related tasks within a project. Each Work Package can be broken down into one or more groups. |
 
+<table>
+<caption>Definitions</caption>
+<thead>
+  <tr>
+    <th>Term</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Committee Team</td>
+    <td>A group chartered by the Steering Committee to perform specific support tasks</td>
+  </tr>
+  <tr>
+    <td>Editor(s)</td>
+    <td>A member of a Working Group who is responsible to edit and maintain a document.</td>
+  </tr>
+  <tr>
+    <td>e-Vote</td>
+    <td>Electronic Vote.</td>
+  </tr>
+  <tr>
+    <td>Issue(s)</td>
+    <td>An important topic or problem for debate or discussion. Normally, in Issues are tracked in Github.</td>
+  </tr>
+  <tr>
+    <td>Steering Group member</td>
+    <td>A member of the Organization that has been selected by the FinOps Foundation Governing Board as a coordinator for the FOCUS Group Project activities.<br>A Steering Group member is the person (or persons) responsible for the direction or movement of an Organization Working Groups. He/she/they are committed to improving, driving, and ensuring an outcome.<br>A Steering Group member doesn’t necessarily have to be someone who writes the data specification. It could be someone who’s done a lot of work evangelizing the Organization, or written documentation that made the Organization more accessible to others. Regardless of what they do day-to-day, a Steering Group member is probably someone who feels responsible over the direction of the project and is committed to improving it.<br>A Steering Group member is the final control point for contributions to a specification. Typically Pull Requests will be proposed by members and approved by the working group following consensus rules. The Steering Group member ensures the contribution rules are followed and that consensus has been met, especially for controversial or disputed contributions. The Steering Group member(s) should be the ones that merge the PR into the baseline (“main” branch).</td>
+  </tr>
+  <tr>
+    <td>Member(s)</td>
+    <td>A person that belongs to a company that has signed the Organization Membership Application, Project and Working Group Charter(s)</td>
+  </tr>
+  <tr>
+    <td>Membership Application</td>
+    <td>A document that provides legal information about rights and obligations of being a member company of an Organization.</td>
+  </tr>
+  <tr>
+    <td>Participant</td>
+    <td>A Participant is any individual creating content or commenting on an Issue or Pull Request.</td>
+  </tr>
+  <tr>
+    <td>Project Charter</td>
+    <td>A legal document that describes the Organization Project.</td>
+  </tr>
+  <tr>
+    <td>Pull Request</td>
+    <td>It indicates what changes are suggested to a branch in a repository on GitHub.</td>
+  </tr>
+  <tr>
+    <td>Release</td>
+    <td>It is the distribution of the final version of a document or application.</td>
+  </tr>
+  <tr>
+    <td>Review & Approval</td>
+    <td>A special process that is used to convey agreement or disagreement on a topic.</td>
+  </tr>
+  <tr>
+    <td>Semantic Versioning</td>
+    <td>It is a versioning scheme to convey backwards or not backwards compatibility of a release.</td>
+  </tr>
+  <tr>
+    <td>Source Code</td>
+    <td>It is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.</td>
+  </tr>
+  <tr>
+    <td>Specification(s)</td>
+    <td>An act of describing or identifying something precisely or of stating a precise requirement.</td>
+  </tr>
+  <tr>
+    <td>Steering Committee</td>
+    <td>A committee that decides on the priorities or order of business of the Organization.</td>
+  </tr>
+  <tr>
+    <td>Working Group / FOCUS Group</td>
+    <td>A group of experts working together to achieve predefined objectives. The group formalizes its objectives and goals in a formal document, the Working Group Charter.</td>
+  </tr>
+  <tr>
+    <td>Working Group Maintainer</td>
+    <td>A person selected by the Working Group which primary role is to facilitate consensus-building among the group members.</td>
+  </tr>
+  <tr>
+    <td>Working Group Charter</td>
+    <td>A document that contains the scope, objectives and goals of a particular group.</td>
+  </tr>
+  <tr>
+    <td>Work Package</td>
+    <td>It is a group of related tasks within a project. Each Work Package can be broken down into one or more groups.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ### Abbreviations
--------------
+
+
 
 | Abv | Meaning |
 |---|---|
@@ -103,3 +198,79 @@ If there is any ambiguity between these definitions here and in the above docume
 | JDF | Joint Development Foundation |
 | FG | FOCUS [Working] Group - used in place of WG/Working Group |
 | REPO | GitHub Repository for the Project or FOCUS Group |
+
+<table>
+<caption>Abbreviations</caption>
+<thead>
+  <tr>
+    <th>Abv</th>
+    <th>Meaning</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>AD</td>
+    <td>Architecture Document</td>
+  </tr>
+  <tr>
+    <td>IPR</td>
+    <td>Intellectual Property Rights</td>
+  </tr>
+  <tr>
+    <td>WG</td>
+    <td>Working Group - this term may be confused with FinOps Foundation Working groups so use FG (defined below)</td>
+  </tr>
+  <tr>
+    <td>PR</td>
+    <td>Pull Request</td>
+  </tr>
+  <tr>
+    <td>REQ</td>
+    <td>Requirements</td>
+  </tr>
+  <tr>
+    <td>RD</td>
+    <td>Requirement Document</td>
+  </tr>
+  <tr>
+    <td>SUP</td>
+    <td>Supporting Document</td>
+  </tr>
+  <tr>
+    <td>TS</td>
+    <td>Technical Specification</td>
+  </tr>
+  <tr>
+    <td>SC</td>
+    <td>Steering Committee</td>
+  </tr>
+  <tr>
+    <td>CLA</td>
+    <td>Contributor License Agreement</td>
+  </tr>
+  <tr>
+    <td>F2</td>
+    <td>FinOps Foundation</td>
+  </tr>
+  <tr>
+    <td>LF</td>
+    <td>Linux Foundation</td>
+  </tr>
+  <tr>
+    <td>FOCUS</td>
+    <td>FinOps Open Cost & Usage Specification Project</td>
+  </tr>
+  <tr>
+    <td>JDF</td>
+    <td>Joint Development Foundation</td>
+  </tr>
+  <tr>
+    <td>FG</td>
+    <td>FOCUS [Working] Group - used in place of WG/Working Group</td>
+  </tr>
+  <tr>
+    <td>REPO</td>
+    <td>GitHub Repository for the Project or FOCUS Group</td>
+  </tr>
+</tbody>
+</table>
