@@ -106,33 +106,165 @@ FOCUS Operating Procedures
 
 ## Membership Benefits
 
-Table 3.0-1: Membership Benefits
-| Benefit Area           | Benefit                                                                  | Steering | General | Contributor |
-|------------------------|--------------------------------------------------------------------------|----------|---------|-------------|
-| **Leadership**                                                                                                                       |
-|                        | Eligible to participate in the Steering Committee                        |    Yes   |   N/A   |      No     |
-|                        | Eligible for a Steering Committee Chair position                         |    Yes   |   N/A   |      No     |
-|                        | Eligible for a FOCUS (Working) Group Chair position                      |    Yes*  |   N/A   |     Yes*    |
-|                        | Eligible for a FOCUS (Working) Group Co-Chair position                   |    Yes*  |   N/A   |     Yes*    |
-|                        | Eligible for a FOCUS (Working) Maintainer position                       |    Yes** |   N/A   |     Yes**   |
-| **Participation**                                                                                                                    |
-|                        | Eligible to join a Working Group                                         |    Yes   |   N/A   |     Yes     |
-|                        | Eligible to join the Steering Committee Meetings                         |    Yes   |   N/A   |     Yes***  |
-| **Contribution**                                                                                                                     |
-|                        | Contribute to Working Groups                                             |    Yes   |   N/A   |     Yes     |
-|                        | Propose new working groups                                               |    Yes   |   N/A   |     Yes     |
-|                        | May propose a Work Package                                               |    Yes   |   N/A   |     Yes     |
-|                        | Counted towards minimum support quorum of a Work Package                 |    Yes   |   N/A   |     Yes     |
-| **Voting**                                                                                                                           |
-|                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |   N/A   |      No     |
-|                        | Vote in a Steering Committee vote                                        |    Yes   |   N/A   |      No     |
-|                        | Vote in an FOCUS (working) group vote                                    |    Yes   |   N/A   |     Yes     |
-| **Access to Meetings**                                                                                                               |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes     |
-| **Process Administration**                                                                                                           |
-|                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
-|                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
-|                        | May appeal on procedural issues                                          |    Yes   |   N/A   |      No     |
+<table>
+<caption>Membership Benefits</caption>
+<thead>
+    <tr>
+      <th>Benefit Area</th>
+      <th>Benefit</th>
+      <th>Steering</th>
+      <th>General</th>
+      <th>Contributor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5"><strong>Leadership</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible to participate in the Steering Committee</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible for a Steering Committee Chair position</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible for a FOCUS (Working) Group Chair position</td>
+      <td>Yes*</td>
+      <td>N/A</td>
+      <td>Yes*</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible for a FOCUS (Working) Group Co-Chair position</td>
+      <td>Yes*</td>
+      <td>N/A</td>
+      <td>Yes*</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible for a FOCUS (Working) Maintainer position</td>
+      <td>Yes**</td>
+      <td>N/A</td>
+      <td>Yes**</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Participation</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible to join a Working Group</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Eligible to join the Steering Committee Meetings</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes***</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Contribution</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Contribute to Working Groups</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Propose new working groups</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>May propose a Work Package</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Counted towards minimum support quorum of a Work Package</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Voting</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Approval of Publications, FOCUS (working) Group formation and Governance</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Vote in a Steering Committee vote</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Vote in an FOCUS (working) group vote</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Access to Meetings</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Attend FOCUS (Work) Group meetings (any mode)</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Process Administration</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>May propose the creation of a Working Group</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>May appeal on technical issues</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>May appeal on procedural issues</td>
+      <td>Yes</td>
+      <td>N/A</td>
+      <td>No</td>
+    </tr>
+</tbody>
+</table>
+
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
 \*\* Approval by the FOCUS Group chairperson
@@ -150,12 +282,30 @@ The workflow for all Working Groups covered by Patent Policy Option 4: W3C Mode 
 
 ### GitHub Access Rights
 
-Table 8.1-1: GitHub Access Rights
-|     Role           |                                                              Access Rights                                                                |   |
-|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|---|
-| FOCUS Members      | TRIAGE - Can read and clone this repository, and push to a repository feature branches. Can also manage `GitHub Issues` and Pull Requests.|   |
-| FOCUS Maintainers  | WRITE - FOCUS Member permissions, plus merge to `working_draft` branch and work on `GitHub Projects`.                                     |   |
-| FOCUS Chair        | ADMINISTRATOR - FOCUS Maintainers permissions, they can also manage GitHub repository settings.                                           |   |
+<table>
+<caption>GitHub Access Rights</caption>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Access Rights</th>
+    </tr>
+  </thead>
+  </tbody>
+    <tr>
+      <td>FOCUS Members</td>
+      <td>TRIAGE - Can read and clone this repository, and push to a repository feature branches. Can also manage <code>GitHub Issues</code> and Pull Requests.</td>
+    </tr>
+    <tr>
+      <td>FOCUS Maintainers</td>
+      <td>WRITE - FOCUS Member permissions, plus merge to <code>working_draft</code> branch and work on <code>GitHub Projects</code>.</td>
+    </tr>
+    <tr>
+      <td>FOCUS Chair</td>
+      <td>ADMINISTRATOR - FOCUS Maintainers permissions, they can also manage GitHub repository settings.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 All Members are required to have 2FA enabled.
 
